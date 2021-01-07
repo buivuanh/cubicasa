@@ -1,0 +1,7 @@
+{
+  "databaseSettings": {
+    "connectionString": "user=user_name password=PWD dbname=assignment host=localhost sslmode=disable",
+    "maxIdleConnections": 4,
+    "maxOpenConnections": 8
+  }
+}
